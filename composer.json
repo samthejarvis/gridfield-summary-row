@@ -4,7 +4,7 @@
 	"type": "silverstripe-module",
 	"homepage": "https://github.com/samthejarvis/gridfield-summary-row",
 	"keywords": [
-		"silverstripe", "summary", "gridfield", "total", "totals"
+		"silverstripe", "summary", "gridfield", "total", "totals", "samthejarvis"
 	],
 	"license": "BSD-3-Clause",
 	"authors": [
